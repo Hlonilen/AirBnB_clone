@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Letlhogonolo Lenong** - [L.Lenong]
+* **Letlhogonolo Lenong** - [ALX Software Engineering Student]
